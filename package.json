@@ -1,6 +1,6 @@
 {
   "name": "@magicfun1241/noi",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Network of interests",
   "main": "index.js",
   "scripts": {
