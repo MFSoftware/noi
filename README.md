@@ -11,7 +11,7 @@ npm i noi --save
 const {
     Network,
     User
-} = require('../index');
+} = require('@magicfun1241/noi');
 
 const net = new Network({
     sport: 'number',
